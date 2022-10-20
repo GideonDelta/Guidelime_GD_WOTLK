@@ -1,0 +1,3 @@
+-- Copyright © 2022 Matthew "GideonDelta" Edmund. All rights reserved.
+-- This add-on is free to download and use. That said, this add-on and its contents may not be redistributed, repackaged, modified, or transferred without explicit and detailed permission of the author.
+-- For questions and feedback childofnewlight@proton.me
