@@ -1,13 +1,14 @@
 -- Copyright © 2022 Matthew "GideonDelta" Edmund. All rights reserved.
 -- This add-on is free to download and use. That said, this add-on and its contents may not be redistributed, repackaged, modified, or transferred without explicit and detailed permission of the author.
 -- For questions and feedback childofnewlight@proton.me
+-- Updated: 2022/10/22 - Updated to include spell links
 Guidelime.registerGuide(
 [[
 [GA Horde]
 [N Tricks and Treats of Eastern Kingdoms]
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Kalimdor]
-[NX58-80 Tricks and Treats of Outland (Horde)]
+[NX Tricks and Treats of Outland (Horde)]
 Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Eastern Kingdoms
 This guide is *intended* to be used by characters at the level of the highest zone entered with the apropriate flight paths and riding skill
 My guides focus on efficiency. Whenever possible, I will take you the most direct route with the least amount of time between objectives and the least amount of backtracking.
@@ -15,13 +16,13 @@ Arrive at [G26,73,100 Stranglethorn Vale][C] Booty Bay
 Complete [QA12397][UI37586-]
 Fly to [F Gromgol][C][O]
 Complete [QA12382][UI37586-]
-[A Mage] Mages *teleport* to Stonard[C] 
+[A Mage] Mages [SP49358][C] 
 Fly to [F Stonard][C]
 [A Mage] Arrive at [G46,53,100 Swamp of Sorrows] Stonard [C]
 Complete [QA12384][UI37586-]
 Fly to [F Kargath][C]
 Complete [QA12385][UI37586-]
-[A Mage] *Teleport* to [G50,16,500 Silvermoon City][UI37586-][O][C] Silvermoon City
+[A Mage] Cast [SP32272]
 [A Mage] Use *Orb of Translocation* to Ruins of Lordearon, Undercity
 Hearth to [H Dalaran][C] \\ Or Shattrath, Undercity, Silvermoon, or Orgrimmar, otherwise, skip this and continue with the optional steps
 Opt: Fly to [F Gromgol][C][O]
@@ -33,7 +34,7 @@ If you hearthed to Undercity, Complete [QA12368][UI37586-] \\ If you missed it o
 Go to [G61,58,250 Tirisfal Glades][C] Tirisfal Glades
 Go to [G61.3,51.6,100 Tirisfal Glades][C] Brill
 Complete [QA12363][UI37586-]
-[A Mage] *Teleport* to [G50,16,500 Silvermoon City][UI37586-][O][C] Silvermoon City
+[A Mage] Cast [SP32272]
 Go to [G66,0,10 Undercity][O][C] Undercity Entrance
 Continue to [G55.3,11,10 Undercity][UI37586-][O][C] *Orb of Translocation*
 Use *Orb of Translocation* to Silvermoon City[O][C]

@@ -4,7 +4,7 @@
 Guidelime.registerGuide(
 [[
 [GA Horde]
-[N58-80 Tricks and Treats of Outland]
+[N Tricks and Treats of Outland]
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Eastern Kingdoms]
 [NX Tricks and Treats of Kalimdor]
@@ -46,13 +46,15 @@ Complete [QA12390][UI37586-]
 Go to [G56.5,35.5,100 Nagrand] Garadar [C]
 FP: [F Garadar][O][C]
 Complete [QA12392][UI37586-]
-[A Mage] *Teleport* to [G54,44,200 Shattrath City] Shattrath City [O][C]
+[A Mage] Mages skip the hearth, cast [SP35715]
+If available and set appropriately, use your [H Shattrath] or [H Dalaran], the latter taking the portal to Shattrath city [C] \\ If your [H] is not ready, continue flying to *Shattrath City*k [C]
 If you're at least unfriendly with the Scryers, I defaulted to Scryer's Tier as it's closer to the FP. If you're Friendly with the Aldor or Hostile with the Scryers you should go to the Aldor Rise.[C]
 Go to [G54,44,100 Shattrath City][C] 
 FP: [F Shattrath][O][C][UI37586-]
-Go to [G27.5,49,10 Shattrath City][A Aldor > 1000][C] Aldor Rise
-Go to [G56,81,10 Shattrath City][A Scryers > -3000][C]  Scryer's Tier
-Complete [QA12404][UI37586-]
+[A Aldor > 1500] Go to [G27.5,49,10 Shattrath City][C] Aldor Rise
+[A Aldor > 1500] Complete [QA12404][UI37586-]
+[A Scryers > -3000] Go to [G56,81,10 Shattrath City][C]  Scryer's Tier
+[A Scryers > -3000] Complete [QA12404][UI37586-]
 Go to [G49,44,100 Terokkar Forest] Stonebreaker Hold [C]
 FP: [F Stonebreaker Hold][O][C]
 Complete [QA12391][UI37586-]
@@ -60,10 +62,11 @@ Go to [G61,28,100 Shadowmoon Valley] Shadowmoon Village [C]
 FP: [F Shadowmoon Village][O][C]
 Complete [QA12395][UI37586-]
 Same deal as Shattrath, except this time the unaligned are being sent to Altar of Shatar as it's closer.
-FP: [F Altar of ShaTar][A Aldor > -3000][UI37586-][O][C]
-Go to [G61,28,100][A Aldor> -3000][O][C] Altar of ShaTar
-Go to [G56,60,100][A Scryers] Sanctum of the Stars
-FP: [F Sanctum of the Stars][A Scryers > 1000][UI37586-][O][C]
-Complete [QA12409][UI37586-]
+[A Aldor> -3000]FP: [F Altar of ShaTar][UI37586-][O][C]
+[A Aldor> -3000]Go to [G61,28,100][O][C] Altar of ShaTar
+[A Aldor> -3000] Complete [QA12409][UI37586-]
+[A Scryers > 1000] Go to [G56,60,100] Sanctum of the Stars
+[A Scryers > 1000] FP: [F Sanctum of the Stars][UI37586-][O][C]
+[A Scryers > 1000] Complete [QA12409][UI37586-]
 *Congratulations!* You have completed this guide. \\ If you followed these guides in order, you should now have *Tricks and Treats of Azeroth* completed. Otherwise, follow the links below to complete the other parts of this achievement. [UI37586-]
 ]], "Gideon Delta Guides")
