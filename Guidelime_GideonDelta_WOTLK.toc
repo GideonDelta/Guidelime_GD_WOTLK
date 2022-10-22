@@ -1,10 +1,11 @@
 ## Title: Guidelime_GideonDelta_WOTLK
 ## Author: Gideon Delta
-## Version: 0.25
+## Version: 0.3.0
 ## Interface: 30400
 ## Dependencies: Guidelime
-## Notes: Fast and efficient guides for GuideLime
+## Notes: GideonDelta's Fast and efficient guides for GuideLime
 
 Achievements\GD_ToT_Kalimdor.lua
 Achievements\GD_ToT_EasternKingdoms.lua
-Achievements\GD_ToT_Outlands.lua
+Achievements\GD_ToT_Outland.lua
+Achievements\GD_TaT_Outland.lua

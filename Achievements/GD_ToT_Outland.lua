@@ -4,13 +4,13 @@
 Guidelime.registerGuide(
 [[
 [GA Horde]
-[N Tricks and Treats of Outlands]
+[N58-80 Tricks and Treats of Outland]
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Eastern Kingdoms]
 [NX Tricks and Treats of Kalimdor]
-Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Outlands
+Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Outland
 This guide is *intended* to be used by characters at the level of the highest zone entered with the apropriate flight paths and riding skill
-As flight is available in Outlands, Optional Flight Path instructions are marked with FP: \\ If you're using your own mount you can safely skip these
+As flight is available in Outland, Optional Flight Path instructions are marked with FP: \\ If you're using your own mount you can safely skip these
 My guides focus on efficiency. Whenever possible, I will take you the most direct route with the least amount of time between objectives and the least amount of backtracking.
 Go to the [G84.8,17.2,10 Undercity][C] Blasted Lands Portal in the Magic Quarter \\ We're picking up from the Eastern Kingdoms Guide. \\ If in another capital, skip this step and use the Blasted Lands Portal in that city.
 Use the portal to [G57.5,51,1000 Blasted Lands][C] The Blasted Lands 

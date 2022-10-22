@@ -7,7 +7,7 @@ Guidelime.registerGuide(
 [N Tricks and Treats of Eastern Kingdoms]
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Kalimdor]
-[NX Tricks and Treats of Outlands]
+[NX58-80 Tricks and Treats of Outland (Horde)]
 Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Eastern Kingdoms
 This guide is *intended* to be used by characters at the level of the highest zone entered with the apropriate flight paths and riding skill
 My guides focus on efficiency. Whenever possible, I will take you the most direct route with the least amount of time between objectives and the least amount of backtracking.
@@ -60,7 +60,7 @@ Fly to [F Tarren Mill][C]
 Complete [QA12376][UI37586-]
 Fly to [F Sepulcher][C]
 Complete [QA12371][UI37586-]
-Fly to [F Undercity][C] \\ If you plan on doing Outlands, continue to UC as we'll be using the teleporter to Blasted Lands to begin the Outlands guide.
+Fly to [F Undercity][C] \\ If you plan on doing Outland, continue to UC as we'll be using the teleporter to Blasted Lands to begin the Outland guide.
 Complete [QA12368][UI37586-]
 *Congratulations!* You've completed *Tricks and Treats of Eastern Kingdoms* [UI37586-]
 ]], "Gideon Delta Guides")
