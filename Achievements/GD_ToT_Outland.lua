@@ -8,6 +8,7 @@ Guidelime.registerGuide(
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Eastern Kingdoms]
 [NX Tricks and Treats of Kalimdor]
+[NX30-80 Rotten Hallow for the Horde]
 Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Outland
 This guide is *intended* to be used by characters at the level of the highest zone entered with the apropriate flight paths and riding skill
 As flight is available in Outland, Optional Flight Path instructions are marked with FP: \\ If you're using your own mount you can safely skip these

@@ -8,7 +8,8 @@ Guidelime.registerGuide(
 [N Tricks and Treats of Eastern Kingdoms]
 [D Guide designed for efficient completion of the Tricks and Treats of Azeroth achievement for Horde characters:  https://Fyre.is/]
 [NX Tricks and Treats of Kalimdor]
-[NX Tricks and Treats of Outland (Horde)]
+[NX Tricks and Treats of Outland]
+[NX30-80 Rotten Hallow for the Horde]
 Welcome to *GideonDelta's Guides to WOTLK:* Tricks and Treats of Eastern Kingdoms
 This guide is *intended* to be used by characters at the level of the highest zone entered with the apropriate flight paths and riding skill
 My guides focus on efficiency. Whenever possible, I will take you the most direct route with the least amount of time between objectives and the least amount of backtracking.
