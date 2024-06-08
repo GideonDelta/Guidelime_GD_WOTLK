@@ -1,3 +1,4 @@
--- Copyright © 2022 Matthew "GideonDelta" Edmund. All rights reserved.
--- This add-on is free to download and use. That said, this add-on and its contents may not be redistributed, repackaged, modified, or transferred without explicit and detailed permission of the author.
--- For questions and feedback childofnewlight@proton.me
+-- Guidelime_GideonDelta_WOTLK © 2022 by Matthew Edmund (GideonDelta) 
+--- is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. 
+--- To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+-- For questions and feedback matthew@fyre.is
